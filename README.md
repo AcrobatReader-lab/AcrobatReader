@@ -20,9 +20,9 @@
 
 ### Why Choose Acrobat Reader
 
-1. ⭐️**View, store and share PDFs** – Get the best viewing experience for all types of PDF content. Store files online and share them with anyone.
+1. ⭐️**View, store and share PDFs** – Get the best viewing experience for all types of PDF content.
 2. ⭐️**Fill and sign** – Complete forms fast and add your signature or initials. Then share a link with others.
-3. ⭐️**Give and get feedback** – Add text boxes, sticky notes and highlights. Share a PDF to collect everyone's input in one file.
-4. ⭐️**Work from anywhere** – Access your files from any device with the free Acrobat Reader app and through the Acrobat Reader Chrome extension
+3. ⭐️**Give and get feedback** – Add text boxes, sticky notes and highlights. 
+4. ⭐️**Work from anywhere** – Access your files from any device with the free Acrobat Reader app.
 
 ![AcrobatReader](acrobat.jpeg)
