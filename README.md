@@ -25,4 +25,4 @@
 3. ⭐️**Give and get feedback** – Add text boxes, sticky notes and highlights. Share a PDF to collect everyone's input in one file.
 4. ⭐️**Work from anywhere** – Access your files from any device with the free Acrobat Reader app and through the Acrobat Reader Chrome extension
 
-![AcrobatReader](acrobat.png)
+![AcrobatReader](acrobat.jpeg)
