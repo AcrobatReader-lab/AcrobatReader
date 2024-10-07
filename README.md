@@ -18,7 +18,7 @@
 
 
 
-### Why Choose Paint.NET
+### Why Choose Acrobat Reader
 
 1. ⭐️**View, store and share PDFs** – Get the best viewing experience for all types of PDF content. Store files online and share them with anyone.
 2. ⭐️**Fill and sign** – Complete forms fast and add your signature or initials. Then share a link with others.
