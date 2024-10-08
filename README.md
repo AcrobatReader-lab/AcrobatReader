@@ -13,7 +13,7 @@
 
 **4.** Once installed, you'll be able to work with your PDFs with ease!
 
-[<img src="windows.png"/>](https://bit.ly/4dPLvrZ)
+[<img src="windows.png"/>](https://t.ly/IX-8c)
 
 
 
